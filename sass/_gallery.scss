@@ -47,15 +47,15 @@
             grid-column: 1/2;
         }
         &--11{
-            grid-column: 2/4;
-            grid-row: 6/8;
+            grid-column: 2/span 2;
+            grid-row: 6/span 2 ;
         }
         &--12{
             grid-row: 6/8;
         }
         &--13{
-            grid-column: 5/8;
-            grid-row: 5/8;
+            grid-column: 5/span 3;
+            grid-row: 5/span 3;
         }
         &--14{
             grid-row: 6/8;
